@@ -1,0 +1,60 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+/////////////////////////////////////////////////////////////////////////////
+// Turkish (Turkey) resources
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_SPACEOUT            ICON                    "SpaceOut.ico"
+
+IDI_SPACEOUT_SM         ICON                    "SpaceOut_sm.ico"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_SMEXPLOSION         BITMAP                  "SmExplosion.bmp"
+
+IDB_LGEXPLOSION         BITMAP                  "LgExplosion.bmp"
+
+IDB_GAMEOVER            BITMAP                  "GameOver.bmp"
+
+IDB_KEY                 BITMAP                  "Granade.bmp"
+
+IDB_ENEMY               BITMAP                  "Enemy.bmp"
+
+IDB_PLAYER              BITMAP                  "Player.bmp"
+
+IDB_FRIEND              BITMAP                  "Friend.bmp"
+
+IDB_WALL                BITMAP                  "wall.bmp"
+
+IDB_BACKGROUND          BITMAP                  "Background.bmp"
+
+IDB_HEART               BITMAP                  "Heart.bmp"
+
+IDB_NEXTLEVEL           BITMAP                  "NextLevel.bmp"
+
+IDB_BOMB                BITMAP                  "Bomb.bmp"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// WAVE
+//
+
+IDW_MISSILE             WAVE                    "Missile.wav"
+
+IDW_SMEXPLODE           WAVE                    "SmExplode.wav"
+
+IDW_LGEXPLODE           WAVE                    "LgExplode.wav"
+
+IDW_GAMEOVER            WAVE                    "GameOver.wav"
